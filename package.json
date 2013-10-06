@@ -1,0 +1,12 @@
+{
+	"name": "gwen-d",
+  "targetType": "library",
+	"description": "A port of Garry's GWEN library to the D Programming Language",
+	"homepage": "https://github.com/kubasz/GWEN-D",
+	"copyright": "Copyright © 2013, Jakub 'kubasz' Szewczyk",
+	"authors": [
+		"Jakub Szewczyk"
+	],
+	"dependencies": {
+	}
+}
